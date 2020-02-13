@@ -4,3 +4,4 @@ hogehoge
 ここに変更加えて、マスターが移動するかどうか
 <<<<<<< Updated upstream
 マスターにまた変更
+あ。ForkのResolveってベータ版なのね。
